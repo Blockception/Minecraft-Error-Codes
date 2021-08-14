@@ -1,0 +1,9 @@
+{
+  "editor.insertSpaces": false,
+  "editor.formatOnSave": true,
+
+  "[markdown]": {
+    "editor.wordWrap": "off",
+    "editor.formatOnSave": true
+  }
+}
