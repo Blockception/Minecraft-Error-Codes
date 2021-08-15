@@ -1,0 +1,3 @@
+# Boolean - Invalid
+
+`boolean.invalid`
