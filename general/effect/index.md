@@ -1,4 +1,4 @@
-# commands
+# effect
 
 ## Categories
 
