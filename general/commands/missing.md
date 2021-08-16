@@ -1,3 +1,0 @@
-# Commands - Missing
-
-`command.missing`
