@@ -1,3 +1,3 @@
 # Float - Invalid
 
-`float.invalid`
+`general.float.invalid`

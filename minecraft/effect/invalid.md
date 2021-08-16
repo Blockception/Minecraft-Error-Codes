@@ -1,3 +1,3 @@
 # Effect - Invalid
 
-`effect.invalid`
+`minecraft.effect.invalid`

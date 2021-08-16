@@ -1,3 +1,3 @@
 # Commands - Invalid
 
-`command.invalid`
+`minecraft.command.invalid`

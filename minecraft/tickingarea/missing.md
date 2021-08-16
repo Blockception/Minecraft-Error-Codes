@@ -1,3 +1,3 @@
 # Tickingarea - Missing
 
-`tickingarea.missing`
+`minecraft.tickingarea.missing`

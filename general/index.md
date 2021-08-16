@@ -1,6 +1,7 @@
 # general
 
 ## Categories
+
 - [boolean](./boolean/index.md)
 - [effect](./effect/index.md)
 - [float](./float/index.md)

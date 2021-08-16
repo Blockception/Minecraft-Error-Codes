@@ -1,3 +1,3 @@
 # Coordinate - Invalid
 
-`coordinate.invalid`
+`minecraft.coordinate.invalid`

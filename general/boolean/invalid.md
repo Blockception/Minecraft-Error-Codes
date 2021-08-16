@@ -1,3 +1,3 @@
 # Boolean - Invalid
 
-`boolean.invalid`
+`general.boolean.invalid`

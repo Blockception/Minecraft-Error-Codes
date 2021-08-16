@@ -1,3 +1,3 @@
 # String - Invalid
 
-`string.invalid`
+`general.string.invalid`

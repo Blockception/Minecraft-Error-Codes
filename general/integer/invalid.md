@@ -1,3 +1,3 @@
 # Integer - Invalid
 
-`integer.invalid`
+`general.integer.invalid`

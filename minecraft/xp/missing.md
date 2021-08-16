@@ -1,3 +1,3 @@
 # Xp - Missing
 
-`xp.missing`
+`minecraft.xp.missing`

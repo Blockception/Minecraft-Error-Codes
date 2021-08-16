@@ -1,3 +1,3 @@
 # Keyword - Invalid
 
-`keyword.invalid`
+`general.keyword.invalid`
