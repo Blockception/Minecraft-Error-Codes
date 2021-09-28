@@ -8,6 +8,7 @@
 - [coordinate](./coordinate/index.md)
 - [effect](./effect/index.md)
 - [family](./family/index.md)
+- [format](./format/index.md)
 - [mode](./mode/index.md)
 - [tag](./tag/index.md)
 - [tickingarea](./tickingarea/index.md)
