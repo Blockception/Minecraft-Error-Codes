@@ -2,4 +2,4 @@
 
 `behaviorpack.entity.missing`
 
-The definition of the entity is missing from behaviorpacks
+The definition of the entity is missing from behaviorpack(s)
