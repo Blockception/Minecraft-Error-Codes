@@ -1,4 +1,4 @@
-# animation
+# mcfunction
 
 ## Categories
 

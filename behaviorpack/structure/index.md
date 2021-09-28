@@ -1,4 +1,4 @@
-# animation
+# structure
 
 ## Categories
 

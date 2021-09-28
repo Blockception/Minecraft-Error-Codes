@@ -8,5 +8,7 @@
 - [entity](./entity/index.md)
 - [item](./item/index.md)
 - [loot_table](./loot_table/index.md)
+- [mcfunction](./mcfunction/index.md)
+- [structure](./structure/index.md)
 
 ## Documents
