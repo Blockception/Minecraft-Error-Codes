@@ -2,6 +2,7 @@
 
 ## Categories
 - [behaviorpack](./behaviorpack/index.md)
+- [codes](./codes/index.md)
 - [general](./general/index.md)
 - [minecraft](./minecraft/index.md)
 - [project](./project/index.md)
