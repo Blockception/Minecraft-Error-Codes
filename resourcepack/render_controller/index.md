@@ -1,4 +1,4 @@
-# animation_controller
+# render_controller
 
 ## Categories
 
