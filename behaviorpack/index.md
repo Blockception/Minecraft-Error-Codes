@@ -6,5 +6,7 @@
 - [animation_controller](./animation_controller/index.md)
 - [block](./block/index.md)
 - [entity](./entity/index.md)
+- [item](./item/index.md)
+- [loot_table](./loot_table/index.md)
 
 ## Documents

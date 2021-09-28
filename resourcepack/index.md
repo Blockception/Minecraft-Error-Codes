@@ -5,5 +5,6 @@
 - [animation](./animation/index.md)
 - [animation_controller](./animation_controller/index.md)
 - [entity](./entity/index.md)
+- [item](./item/index.md)
 
 ## Documents
