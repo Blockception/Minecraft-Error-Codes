@@ -9,6 +9,7 @@
 - [item](./item/index.md)
 - [loot_table](./loot_table/index.md)
 - [mcfunction](./mcfunction/index.md)
-- [structure](./structure/index.md)
+- [mcstructure](./mcstructure/index.md)
+- [trading](./trading/index.md)
 
 ## Documents

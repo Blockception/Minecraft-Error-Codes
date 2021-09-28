@@ -1,4 +1,4 @@
-# loot_table
+# trading
 
 ## Categories
 

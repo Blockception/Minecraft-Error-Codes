@@ -6,5 +6,6 @@
 - [animation_controller](./animation_controller/index.md)
 - [entity](./entity/index.md)
 - [item](./item/index.md)
+- [render_controller](./render_controller/index.md)
 
 ## Documents

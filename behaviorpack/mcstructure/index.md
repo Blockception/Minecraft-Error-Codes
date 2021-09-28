@@ -1,4 +1,4 @@
-# structure
+# mcstructure
 
 ## Categories
 
