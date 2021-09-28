@@ -9,6 +9,7 @@
 - [effect](./effect/index.md)
 - [family](./family/index.md)
 - [format](./format/index.md)
+- [language](./language/index.md)
 - [mode](./mode/index.md)
 - [tag](./tag/index.md)
 - [tickingarea](./tickingarea/index.md)
