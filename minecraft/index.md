@@ -10,6 +10,7 @@
 - [family](./family/index.md)
 - [format](./format/index.md)
 - [language](./language/index.md)
+- [manifest](./manifest/index.md)
 - [mode](./mode/index.md)
 - [objective](./objective/index.md)
 - [tag](./tag/index.md)
