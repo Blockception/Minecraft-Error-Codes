@@ -10,4 +10,6 @@
 - [resourcepack](./resourcepack/index.md)
 
 ## Documents
+- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+- [CONTRIBUTING](CONTRIBUTING.md)
 - [README](README.md)
