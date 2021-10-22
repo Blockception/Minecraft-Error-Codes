@@ -13,6 +13,7 @@
 - [manifest](./manifest/index.md)
 - [mode](./mode/index.md)
 - [objective](./objective/index.md)
+- [script](./script/index.md)
 - [tag](./tag/index.md)
 - [tickingarea](./tickingarea/index.md)
 - [xp](./xp/index.md)
