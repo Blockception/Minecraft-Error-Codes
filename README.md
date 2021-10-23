@@ -9,6 +9,7 @@ A repository containing all the diagnostics code for the bc-minecraft-bedrock-di
 - [behaviorpack](./behaviorpack/index.md)
 - [codes](./codes/index.md)
 - [general](./general/index.md)
+- [json](./json/index.md)
 - [minecraft](./minecraft/index.md)
 - [molang](./molang/index.md)
 - [project](./project/index.md)
