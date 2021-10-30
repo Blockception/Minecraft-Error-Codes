@@ -8,6 +8,7 @@
 - [entity](./entity/index.md)
 - [item](./item/index.md)
 - [loot_table](./loot_table/index.md)
+- [manifest](./manifest/index.md)
 - [mcfunction](./mcfunction/index.md)
 - [mcstructure](./mcstructure/index.md)
 - [trading](./trading/index.md)
