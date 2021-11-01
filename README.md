@@ -14,3 +14,8 @@ A repository containing all the diagnostics code for the bc-minecraft-bedrock-di
 - [molang](./molang/index.md)
 - [project](./project/index.md)
 - [resourcepack](./resourcepack/index.md)
+
+## Contribution
+
+This project welcomes contributions and suggestions. New contributors should check out our more detailed contribution guidelines:
+[CONTRIBUTING](./CONTRIBUTING.md)
