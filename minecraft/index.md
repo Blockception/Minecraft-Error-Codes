@@ -15,6 +15,7 @@
 - [objective](./objective/index.md)
 - [script](./script/index.md)
 - [tag](./tag/index.md)
+- [text](./text/index.md)
 - [tickingarea](./tickingarea/index.md)
 - [xp](./xp/index.md)
 

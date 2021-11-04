@@ -22,11 +22,11 @@ An event inside of the behavior is referencing a component group that has not be
       "minecraft:entity_spawned": {
         "add": {
           "component_groups": [
-		    //This component_group is properly defined
-		    "group_a",
-		    //This component_group is not defined.
-		    "group_b"
-		  ]
+            //This component_group is properly defined
+            "group_a",
+           //This component_group is not defined.
+            "group_b"
+          ]
         }
       }
     }
