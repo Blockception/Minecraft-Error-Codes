@@ -1,21 +1,16 @@
 # Minecraft-Error-Codes
 
-A repository containing all the diagnostics code for the bc-minecraft-bedrock-diagnoser
+## Categories
+- [behaviorpack](./behaviorpack/README.md)
+- [codes](./codes/README.md)
+- [general](./general/README.md)
+- [json](./json/README.md)
+- [minecraft](./minecraft/README.md)
+- [molang](./molang/README.md)
+- [project](./project/README.md)
+- [resourcepack](./resourcepack/README.md)
 
-[![Create markdown indexes](https://github.com/Blockception/Minecraft-Error-Codes/actions/workflows/create-indexes.yml/badge.svg)](https://github.com/Blockception/Minecraft-Error-Codes/actions/workflows/create-indexes.yml)
-
-## Content
-
-- [behaviorpack](./behaviorpack/index.md)
-- [codes](./codes/index.md)
-- [general](./general/index.md)
-- [json](./json/index.md)
-- [minecraft](./minecraft/index.md)
-- [molang](./molang/index.md)
-- [project](./project/index.md)
-- [resourcepack](./resourcepack/index.md)
-
-## Contribution
-
-This project welcomes contributions and suggestions. New contributors should check out our more detailed contribution guidelines:
-[CONTRIBUTING](./CONTRIBUTING.md)
+## Documents
+- [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+- [CONTRIBUTING](CONTRIBUTING.md)
+- [index](index.md)
