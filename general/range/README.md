@@ -5,4 +5,3 @@
 - [integer](./integer/README.md)
 
 ## Documents
-- [index](index.md)

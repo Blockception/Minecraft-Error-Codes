@@ -9,4 +9,3 @@
 - [variable](./variable/README.md)
 
 ## Documents
-- [index](index.md)

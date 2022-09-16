@@ -20,4 +20,3 @@
 - [xp](./xp/README.md)
 
 ## Documents
-- [index](index.md)
