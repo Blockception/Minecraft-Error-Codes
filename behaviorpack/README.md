@@ -14,4 +14,3 @@
 - [trading](./trading/README.md)
 
 ## Documents
-- [index](index.md)

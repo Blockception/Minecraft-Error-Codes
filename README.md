@@ -13,4 +13,3 @@
 ## Documents
 - [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 - [CONTRIBUTING](CONTRIBUTING.md)
-- [index](index.md)

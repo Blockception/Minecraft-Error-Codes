@@ -9,4 +9,3 @@
 - [string](./string/README.md)
 
 ## Documents
-- [index](index.md)
