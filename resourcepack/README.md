@@ -9,5 +9,7 @@
 - [model](./model/README.md)
 - [particle](./particle/README.md)
 - [render_controller](./render_controller/README.md)
+- [sound](./sound/README.md)
+- [texture](./texture/README.md)
 
 ## Documents

@@ -1,7 +1,6 @@
-# hasitem
+# scores
 
 ## Categories
-- [attribute](./attribute/README.md)
 - [item](./item/README.md)
 
 ## Documents

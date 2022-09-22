@@ -1,6 +1,7 @@
 # molang
 
 ## Categories
+- [context](./context/README.md)
 - [geometry](./geometry/README.md)
 - [material](./material/README.md)
 - [math](./math/README.md)
