@@ -14,6 +14,7 @@
 - [mode](./mode/README.md)
 - [objective](./objective/README.md)
 - [script](./script/README.md)
+- [selector](./selector/README.md)
 - [tag](./tag/README.md)
 - [text](./text/README.md)
 - [tickingarea](./tickingarea/README.md)
