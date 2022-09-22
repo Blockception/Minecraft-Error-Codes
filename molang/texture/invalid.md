@@ -1,5 +1,5 @@
-# Molang - Material - Invalid
+# Molang - Texture - Invalid
 
-`molang.material.invalid`
+`molang.texture.invalid`
 
 [documentation](https://docs.microsoft.com/en-us/minecraft/creator/reference/content/molangreference/examples/molangconcepts/domainexamples)

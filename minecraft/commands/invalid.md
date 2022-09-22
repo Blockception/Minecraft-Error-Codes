@@ -1,3 +1,5 @@
 # Commands - Invalid
 
-`minecraft.command.invalid`
+`minecraft.commands.invalid`
+
+Thrown when an unknown command is used.
