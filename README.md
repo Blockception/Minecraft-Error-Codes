@@ -14,4 +14,3 @@
 ## Documents
 - [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 - [CONTRIBUTING](CONTRIBUTING.md)
-- [debugger.internal.exception](debugger.internal.exception.md)
