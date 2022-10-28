@@ -36,7 +36,7 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           git config user.name bot
-          git config user.email bot@Blockception.com
+          git config user.email orbi@blockception.com
           git add .
           git commit -m "auto: Generated markdown indexes pages"
           git push
