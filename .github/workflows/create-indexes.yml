@@ -31,7 +31,7 @@ jobs:
           folder: ${{github.workspace}}
           filename: README.md
 
-      - name: Commit changes
+      - name: ✏️ Commit changes
         continue-on-error: true
         run: |
           cd $GITHUB_WORKSPACE
