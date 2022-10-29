@@ -1,4 +1,4 @@
-name: 📔 Create markdown indexes
+name: 📔 Create Readme
 
 on:
   push:
