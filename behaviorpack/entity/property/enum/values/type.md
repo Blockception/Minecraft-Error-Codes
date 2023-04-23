@@ -1,0 +1,1 @@
+# Entity Property Enum - Type

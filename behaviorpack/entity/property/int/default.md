@@ -1,1 +1,1 @@
-# Entity Float Property
+# Entity Int Property
