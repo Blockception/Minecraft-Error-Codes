@@ -1,5 +1,5 @@
 
 
 gen:
-  cd generator
-  npm run gen
+	cd generator
+	npm run gen
