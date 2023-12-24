@@ -1,10 +1,10 @@
-import { CommandContainer, Edu, ParameterInfo, ParameterType, Vanilla } from "bc-minecraft-bedrock-command";
+import { CommandContainer, ParameterInfo, ParameterType, CommandData } from "bc-minecraft-bedrock-command";
 import * as fs from "fs";
 import path from "path";
 
 export function doGen() {
-  gen(Vanilla);
-  gen(Edu, true);
+  gen(CommandData.Vanilla);
+  gen(CommandData.Edu, true);
 }
 
 function gen(data: CommandContainer, edu: boolean = false) {

@@ -18,13 +18,13 @@
   },
   "homepage": "https://github.com/Blockception/Minecraft-Error-Codes#readme",
   "devDependencies": {
-    "@types/node": "^18.7.18",
-    "ts-node": "^10.9.1"
+    "@types/node": "^20.10.5",
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
-    "async": "^3.2.4",
-    "bc-minecraft-bedrock-command": "^1.2.34",
-    "node": "^18.9.0",
-    "typescript": "^4.8.3"
+    "async": "^3.2.5",
+    "bc-minecraft-bedrock-command": "^1.20.60-1",
+    "node": "^21.2.0",
+    "typescript": "^5.3.3"
   }
 }
