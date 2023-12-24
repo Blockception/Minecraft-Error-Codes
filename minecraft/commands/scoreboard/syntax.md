@@ -133,7 +133,7 @@ scoreboard objectives setdisplay sidebar [objective: objective] descending
 Sets the objective under the name.
 
 ```mcfunction
-scoreboard objectives setdisplay below_name [objective: objective]
+scoreboard objectives setdisplay belowname [objective: objective]
 ```
 
 |Parameter|Type|Required|Other|
@@ -141,7 +141,7 @@ scoreboard objectives setdisplay below_name [objective: objective]
 |`scoreboard`|keyword|true||
 |`objectives`|keyword|true||
 |`setdisplay`|keyword|true||
-|`below_name`|keyword|true||
+|`belowname`|keyword|true||
 |`objective`|objective|false||
 
 

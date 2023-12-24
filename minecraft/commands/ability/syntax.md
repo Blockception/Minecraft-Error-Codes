@@ -18,7 +18,7 @@ ability
 
 ## ability - Nr: 1
 
-Returns a list of abillities assigned to the specified player
+Returns a list of abilities assigned to the specified player
 
 ```mcfunction
 ability <player: selector>

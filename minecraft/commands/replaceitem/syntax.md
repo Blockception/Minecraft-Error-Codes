@@ -5,7 +5,7 @@
 Replaces items in inventories.
 
 ```mcfunction
-replaceitem block <position x: coordinate> <position y: coordinate> <position z: coordinate> slot.container <slot id: slotID> <item name: item> amount data components
+replaceitem block <position x: coordinate> <position y: coordinate> <position z: coordinate> slot.container <slot id: slotID> <item name: item> [amount: integer] [data: integer] [components: jsonItem]
 ```
 
 |Parameter|Type|Required|Other|
@@ -18,9 +18,9 @@ replaceitem block <position x: coordinate> <position y: coordinate> <position z:
 |`slot.container`|keyword|true||
 |`slot id`|slotID|true||
 |`item name`|item|true||
-|`amount`|keyword|false||
-|`data`|keyword|false||
-|`components`|keyword|false||
+|`amount`|integer|false||
+|`data`|integer|false||
+|`components`|jsonItem|false||
 
 
 
@@ -29,7 +29,7 @@ replaceitem block <position x: coordinate> <position y: coordinate> <position z:
 Replaces items in inventories.
 
 ```mcfunction
-replaceitem block <position x: coordinate> <position y: coordinate> <position z: coordinate> slot.container <slotId: slotID> <replacemode: replaceMode> <item name: item> amount data components
+replaceitem block <position x: coordinate> <position y: coordinate> <position z: coordinate> slot.container <slotId: slotID> <replacemode: replaceMode> <item name: item> [amount: integer] [data: integer] [components: jsonItem]
 ```
 
 |Parameter|Type|Required|Other|
@@ -43,9 +43,9 @@ replaceitem block <position x: coordinate> <position y: coordinate> <position z:
 |`slotId`|slotID|true||
 |`replacemode`|replaceMode|true||
 |`item name`|item|true||
-|`amount`|keyword|false||
-|`data`|keyword|false||
-|`components`|keyword|false||
+|`amount`|integer|false||
+|`data`|integer|false||
+|`components`|jsonItem|false||
 
 
 

@@ -2,7 +2,7 @@
 
 ## tp - Nr: 0
 
-Teleport the executing entity to the destination entity.
+Teleport Entities.
 
 ```mcfunction
 tp <destination: selector> [check for blocks: boolean]
@@ -18,7 +18,7 @@ tp <destination: selector> [check for blocks: boolean]
 
 ## tp - Nr: 1
 
-Teleport the executing entity to the location.
+Teleport Entities.
 
 ```mcfunction
 tp <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> [check for blocks: boolean]
@@ -36,7 +36,7 @@ tp <destination x: coordinate> <destination y: coordinate> <destination z: coord
 
 ## tp - Nr: 2
 
-Teleport the entity to the destination entity.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination: selector> [check for blocks: boolean]
@@ -53,7 +53,7 @@ tp <victim: selector> <destination: selector> [check for blocks: boolean]
 
 ## tp - Nr: 3
 
-Teleport the entity to the specified location.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> [check for blocks: boolean]
@@ -72,7 +72,7 @@ tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <d
 
 ## tp - Nr: 4
 
-Teleport the executing entity to the destination with rotation.
+Teleport Entities.
 
 ```mcfunction
 tp <destination: selector> [yRot: coordinate] [xRot: coordinate] [check for blocks: boolean]
@@ -90,7 +90,7 @@ tp <destination: selector> [yRot: coordinate] [xRot: coordinate] [check for bloc
 
 ## tp - Nr: 5
 
-Teleport the executing entity to the destination with rotation.
+Teleport Entities.
 
 ```mcfunction
 tp <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> [yRot: coordinate] [xRot: coordinate] [check for blocks: boolean]
@@ -130,7 +130,7 @@ tp <victim: selector> <destination: selector> facing [yRot: coordinate] [xRot: c
 
 ## tp - Nr: 7
 
-Teleport the entity to the destination with rotation.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> [yRot: coordinate] [xRot: coordinate] [check for blocks: boolean]
@@ -151,7 +151,7 @@ tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <d
 
 ## tp - Nr: 8
 
-Teleport the executing entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <destination: selector> facing <look at: selector> [check for blocks: boolean]
@@ -169,7 +169,7 @@ tp <destination: selector> facing <look at: selector> [check for blocks: boolean
 
 ## tp - Nr: 9
 
-Teleport the executing entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <destination: selector> facing <look at x: coordinate> <look at y: coordinate> <look at z: coordinate> [check for blocks: boolean]
@@ -189,7 +189,7 @@ tp <destination: selector> facing <look at x: coordinate> <look at y: coordinate
 
 ## tp - Nr: 10
 
-Teleport the entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination: selector> facing <look at: selector> [check for blocks: boolean]
@@ -208,7 +208,7 @@ tp <victim: selector> <destination: selector> facing <look at: selector> [check 
 
 ## tp - Nr: 11
 
-Teleport the entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination: selector> facing <look at x: coordinate> <look at y: coordinate> <look at z: coordinate> [check for blocks: boolean]
@@ -229,7 +229,7 @@ tp <victim: selector> <destination: selector> facing <look at x: coordinate> <lo
 
 ## tp - Nr: 12
 
-Teleport the executing entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> facing <look at: selector> [check for blocks: boolean]
@@ -249,7 +249,7 @@ tp <destination x: coordinate> <destination y: coordinate> <destination z: coord
 
 ## tp - Nr: 13
 
-Teleport the entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> facing <look at x: coordinate> <look at y: coordinate> <look at z: coordinate> [check for blocks: boolean]
@@ -271,7 +271,7 @@ tp <destination x: coordinate> <destination y: coordinate> <destination z: coord
 
 ## tp - Nr: 14
 
-Teleport the entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> facing <look at: selector> [check for blocks: boolean]
@@ -292,7 +292,7 @@ tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <d
 
 ## tp - Nr: 15
 
-Teleport the entity to the destination with facing.
+Teleport Entities.
 
 ```mcfunction
 tp <victim: selector> <destination x: coordinate> <destination y: coordinate> <destination z: coordinate> facing <look at x: coordinate> <look at y: coordinate> <look at z: coordinate> [check for blocks: boolean]

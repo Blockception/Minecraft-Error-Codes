@@ -53,7 +53,7 @@ structure save <name: structure> <from x: coordinate> <from y: coordinate> <from
 Loads a structure to the world.
 
 ```mcfunction
-structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: coordinate> [rotation: rotation] [mirror: mirror] [include entities: boolean] [include blocks: boolean] [integrity: float] [seed: string]
+structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: coordinate> [rotation: rotation] [mirror: mirror] [include entities: boolean] [include blocks: boolean] [water logged blocks: boolean] [integrity: float] [seed: string]
 ```
 
 |Parameter|Type|Required|Other|
@@ -68,6 +68,7 @@ structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: co
 |`mirror`|mirror|false||
 |`include entities`|boolean|false||
 |`include blocks`|boolean|false||
+|`water logged blocks`|boolean|false||
 |`integrity`|float|false||
 |`seed`|string|false||
 
@@ -78,7 +79,7 @@ structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: co
 Loads a structure to the world.
 
 ```mcfunction
-structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: coordinate> [rotation: rotation] [mirror: mirror] [animation mode: structureAnimationMode] [animation seconds: float] [include entities: boolean] [include blocks: boolean] [integrity: float] [seed: string]
+structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: coordinate> [rotation: rotation] [mirror: mirror] [animation mode: structureAnimationMode] [animation seconds: float] [include entities: boolean] [include blocks: boolean] [water logged blocks: boolean] [integrity: float] [seed: string]
 ```
 
 |Parameter|Type|Required|Other|
@@ -95,6 +96,7 @@ structure load <name: structure> <to x: coordinate> <to y: coordinate> <to z: co
 |`animation seconds`|float|false||
 |`include entities`|boolean|false||
 |`include blocks`|boolean|false||
+|`water logged blocks`|boolean|false||
 |`integrity`|float|false||
 |`seed`|string|false||
 
