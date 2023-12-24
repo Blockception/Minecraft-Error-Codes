@@ -1,0 +1,60 @@
+name: 📔 Create generated work
+
+on:
+  push:
+    branches: [main]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: 📔 Create generated work
+    concurrency:
+      group: ci-${{github.repository}}
+      cancel-in-progress: false
+    steps:
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🏗️ Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          cache: npm
+          cache-dependency-path: generator/package-lock.json
+          node-version-file: generator/.nvmrc
+
+      - name: 🏗️ Setup project
+        working-directory: generator
+        run: npm ci
+
+      - name: 🛠️ Build
+        working-directory: generator
+        run: npm run compile
+
+      - name: 📔 Generate
+        working-directory: generator
+        run: npm run gen
+
+      - name: ✏️ Commit changes
+        continue-on-error: true
+        run: |
+          cd ${{github.workspace}}
+          git config --global user.email "orbi@blockception.com"
+          git config --global user.name "Orbi-bot"
+          git add .
+          git commit -m "auto: 📔 Generated documents"
+          git push
+
+      - name: 📔 Create Readmes
+        uses: DaanV2/Markdown-Action-Create-Indexes@v1.7.0
+        with:
+          folder: ${{github.workspace}}
+          filename: README.md
+
+      - name: ✏️ Commit changes
+        continue-on-error: true
+        run: |
+          git add .
+          git commit -m "auto: 📔 Generated README"
+          git push
