@@ -1,5 +1,6 @@
 # Minecraft-Error-Codes
 
+
 ## Categories
 - [behaviorpack](./behaviorpack/README.md)
 - [codes](./codes/README.md)

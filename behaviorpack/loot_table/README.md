@@ -1,5 +1,6 @@
 # loot_table
 
+
 ## Categories
 
 
