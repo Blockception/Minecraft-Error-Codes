@@ -6,3 +6,7 @@ A Minecraft format version is a string of three numbers made out of the major ve
 `<major: number>.<minor: number>.<patch: number>`
 ```
 
+## Version
+
+It also appropriate to have the version as the same version as minecraft
+
