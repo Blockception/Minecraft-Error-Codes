@@ -17,6 +17,13 @@ jobs:
       - name: 📦 Checkout Repository
         uses: actions/checkout@v4
 
+      - name: ⌛ Get Time
+        id: time
+        uses: nanzm/get-time-action@v2.0
+        with:
+          timeZone: 8
+          format: "YYYY-MM-DD"
+
       - name: 🏗️ Setup Node.js Environment
         uses: actions/setup-node@v4
         with:
@@ -43,7 +50,7 @@ jobs:
           git config --global user.email "orbi@blockception.com"
           git config --global user.name "Orbi-bot"
           git add .
-          git commit -m "auto: 📔 Generated documents"
+          git commit -m "auto: 📔 Generated documents ${{ steps.time.outputs.time }}"
           git push
 
       - name: 📔 Create Readmes
@@ -56,5 +63,5 @@ jobs:
         continue-on-error: true
         run: |
           git add .
-          git commit -m "auto: 📔 Generated README"
+          git commit -m "auto: 📔 Generated README ${{ steps.time.outputs.time }}"
           git push
