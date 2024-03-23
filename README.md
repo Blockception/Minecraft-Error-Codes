@@ -2,6 +2,7 @@
 
 
 ## Categories
+- [.github](./.github/README.md)
 - [behaviorpack](./behaviorpack/README.md)
 - [codes](./codes/README.md)
 - [debugger](./debugger/README.md)
