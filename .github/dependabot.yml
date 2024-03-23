@@ -8,16 +8,31 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "monthly"
+      interval: "daily"
     groups:
-      internal:
+      important:
         patterns:
-          - "bc-minecraft-*"
-      all:
-        patterns:
-          - "*"
+          - "bc-*"
+          - "@blockception*"
+          - "vscode-*"
         exclude-patterns:
           - "node-fetch"
+      nodejs:
+        patterns:
+          - "typescript"
+          - "ts-*"
+          - "@types/node"
+          - "node"
+          - "webpack"
+          - "webpack-cli"
+        exclude-patterns:
+          - "node-fetch"
+      test:
+        patterns:
+          - "mocha"
+          - "chai"
+          - "@types/chai"
+          - "@types/mocha"
   - package-ecosystem: "github-actions" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
@@ -26,3 +41,7 @@ updates:
       all:
         patterns:
           - "*"
+  - package-ecosystem: "gitsubmodule"
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "daily"
