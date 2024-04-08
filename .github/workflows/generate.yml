@@ -58,8 +58,8 @@ jobs:
         with:
           folder: ${{github.workspace}}
           filename: README.md
-          exclude:
-            - '.github'
+          exclude: |
+            .github
 
       - name: ✏️ Commit changes
         continue-on-error: true
