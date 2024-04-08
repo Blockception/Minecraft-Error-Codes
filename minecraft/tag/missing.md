@@ -2,7 +2,7 @@
 
 `minecraft.tag.missing`
 
-The diagnostics tool considers weather or not a tag has been given to the entity. Thus its looking for a tag "definition". A place where the tag has been assigned to any type of entity.
+The diagnostics tool considers whether or not a tag has been given to the entity. Thus, it's looking for a tag "definition", a place where the tag has been assigned to any type of entity.
 
 
 **Examples**
