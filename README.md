@@ -2,12 +2,10 @@
 
 
 ## Categories
-- [.github](./.github/README.md)
 - [behaviorpack](./behaviorpack/README.md)
 - [codes](./codes/README.md)
 - [debugger](./debugger/README.md)
 - [general](./general/README.md)
-- [generator](./generator/README.md)
 - [json](./json/README.md)
 - [minecraft](./minecraft/README.md)
 - [molang](./molang/README.md)
