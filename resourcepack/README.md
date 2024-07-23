@@ -1,5 +1,5 @@
 # resourcepack
-
+Any errors codes that are related to items from the resource pack
 
 ## Categories
 - [anim_or_controller](./anim_or_controller/README.md)

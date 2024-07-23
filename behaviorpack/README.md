@@ -1,5 +1,5 @@
 # behaviorpack
-
+Any errors codes that are related to items from the behavior pack
 
 ## Categories
 - [anim_or_controller](./anim_or_controller/README.md)
