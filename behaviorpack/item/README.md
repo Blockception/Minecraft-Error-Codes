@@ -2,6 +2,7 @@
 
 
 ## Categories
+- [component](./component/README.md)
 - [components](./components/README.md)
 
 ## Documents
