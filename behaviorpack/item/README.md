@@ -7,4 +7,5 @@
 
 ## Documents
 - [data](data.md)
+- [deprecated](deprecated.md)
 - [missing](missing.md)
