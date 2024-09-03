@@ -6,4 +6,5 @@
 - [states](./states/README.md)
 
 ## Documents
+- [deprecated](deprecated.md)
 - [missing](missing.md)
