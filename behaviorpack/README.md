@@ -13,5 +13,6 @@ Any errors codes that are related to items from the behavior pack
 - [mcfunction](./mcfunction/README.md)
 - [mcstructure](./mcstructure/README.md)
 - [trading](./trading/README.md)
+- [volumes](./volumes/README.md)
 
 ## Documents
