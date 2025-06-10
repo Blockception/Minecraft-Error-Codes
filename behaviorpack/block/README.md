@@ -8,3 +8,4 @@
 ## Documents
 - [deprecated](deprecated.md)
 - [missing](missing.md)
+- [namespace_group](namespace_group.md)
