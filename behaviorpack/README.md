@@ -5,6 +5,7 @@ Any errors codes that are related to items from the behavior pack
 - [anim_or_controller](./anim_or_controller/README.md)
 - [animation](./animation/README.md)
 - [animation_controller](./animation_controller/README.md)
+- [animation_or_controller](./animation_or_controller/README.md)
 - [block](./block/README.md)
 - [entities](./entities/README.md)
 - [entity](./entity/README.md)
