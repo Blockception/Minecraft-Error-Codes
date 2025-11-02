@@ -25,7 +25,7 @@ jobs:
           format: "YYYY-MM-DD"
 
       - name: 🏗️ Setup Node.js Environment
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v6
         with:
           cache: npm
           cache-dependency-path: generator/package-lock.json
