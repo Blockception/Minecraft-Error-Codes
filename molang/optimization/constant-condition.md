@@ -1,0 +1,3 @@
+# Constant Condition
+
+TODO 
