@@ -7,6 +7,7 @@
 - [geometry](./geometry/README.md)
 - [material](./material/README.md)
 - [math](./math/README.md)
+- [optimization](./optimization/README.md)
 - [query](./query/README.md)
 - [syntax](./syntax/README.md)
 - [texture](./texture/README.md)
