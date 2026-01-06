@@ -2,6 +2,7 @@
 
 
 ## Categories
+- [array](./array/README.md)
 - [context](./context/README.md)
 - [geometry](./geometry/README.md)
 - [material](./material/README.md)
