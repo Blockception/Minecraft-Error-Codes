@@ -9,6 +9,7 @@ Any errors codes that are related to items from the resource pack
 - [entity](./entity/README.md)
 - [item](./item/README.md)
 - [model](./model/README.md)
+- [models](./models/README.md)
 - [particle](./particle/README.md)
 - [render_controller](./render_controller/README.md)
 - [sound](./sound/README.md)
