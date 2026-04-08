@@ -25,7 +25,7 @@ The following entity definition uses a deprecated component:
     },
     "components": {
       "minecraft:breathable": {
-        "totalSupply": 15
+        "total_supply": 15
       }
     }
   }

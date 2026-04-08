@@ -14,7 +14,7 @@ This warning is triggered when the language server detects that a biome's replac
 
 ## Example
 
-The following biome definition incorrectly targets multiple dimensions:
+The following biome definition incorrectly targets multiple dimensions using the `replace_biomes` component:
 
 ```jsonc
 {
@@ -24,8 +24,9 @@ The following biome definition incorrectly targets multiple dimensions:
       "identifier": "example:my_custom_biome"
     },
     "components": {
-      "minecraft:overworld_height": {
-        "noise_params": [0, 0.1]
+      "minecraft:overworld_generation_rules": {
+        "replace_biomes": "minecraft:plains",
+        "weight": 10
       },
       "minecraft:nether_generation_rules": {
         "target_percentage": 0.1
