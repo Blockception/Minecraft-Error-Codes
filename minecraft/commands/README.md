@@ -70,3 +70,5 @@
 
 ## Documents
 - [invalid](invalid.md)
+- [obsolete](obsolete.md)
+- [syntax](syntax.md)
