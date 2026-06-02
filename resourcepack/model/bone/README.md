@@ -1,8 +1,8 @@
-# model
+# bone
 
 
 ## Categories
-- [bone](./bone/README.md)
+
 
 ## Documents
 - [missing](missing.md)
